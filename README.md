@@ -2,6 +2,7 @@
 <h3 align="center">Junior Cybersecurity Engineer | SOC · Threat Intelligence · Cloud Security</h3>
 
 <p align="center">
+  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/marouane-chtita"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marouanechtita@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
@@ -14,6 +15,7 @@
 - 🔍 Focused on **SOC operations**, **Threat Intelligence**, and **Cloud Security**
 - 🧪 Hands-on experience building end-to-end SOC labs (SIEM/EDR, SOAR, TI platforms)
 - 🌱 Currently exploring the intersection of **AI/ML and Cybersecurity**
+- 🖥️ Full project write-ups, architecture diagrams and screenshots on my **[portfolio](https://your-portfolio.vercel.app)**
 - 📫 Reach me at **marouanechtita@gmail.com**
 
 ---
@@ -36,7 +38,7 @@
 `OpenStack` `AWS` `Docker` `VMware` `Linux` `Windows Server`
 
 **Programming**
-`Python` `Java` `C` `JavaScript`
+`Python` `Java` `C` `JavaScript` `TypeScript`
 
 ---
 
@@ -44,15 +46,12 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [🔐 Private Cloud Hardening](./private-cloud-hardening) | OpenStack private cloud with DMZ/DB/mgmt segmentation, defense-in-depth (UFW, Fail2ban, ModSecurity, Wazuh), pentest-validated | ✅ Completed |
-| [🔑 Smart Lock with ZKP Authentication](./smart-lock-zkp) | Zero-Knowledge Proof authentication system, Android + Spring Boot, JWT session security | ✅ Completed |
-| [🧠 SOC Alert Classifier (ML)](./soc-alert-classifier) | ML model to reduce false positives in SIEM alerts, integrated into a Shuffle/TheHive pipeline | 🔧 In Progress |
-| [📡 Sigma Rules & Purple Team Lab](./sigma-purple-team-lab) | Custom Sigma detection rules validated against Atomic Red Team simulations, mapped to MITRE ATT&CK Navigator | 📝 Planned |
-| [☁️ AWS Security Posture Assessment](./aws-security-assessment) | CIS Benchmark audit of a deliberately misconfigured AWS environment using Prowler & ScoutSuite, before/after remediation | 📝 Planned |
-| [🕵️ IOC Extraction with NLP](./ioc-extraction-nlp) | NLP pipeline to extract & enrich IOCs from unstructured CTI reports, MISP integration | 📝 Planned |
-| [🏴 CTF Write-ups](./ctf-writeups) | Documented walkthroughs from TryHackMe / HackTheBox machines | 📝 Planned |
+| [🔐 SOC Lab — CHU Hassan II](https://your-portfolio.vercel.app/projects#soc-lab) | End-to-end SOC: Elastic SIEM/EDR, Suricata, Shuffle SOAR, MISP, TheHive, Cortex — validated against MITRE ATT&CK-mapped attack simulations | ✅ Completed |
+| [☁️ Private Cloud Hardening](https://your-portfolio.vercel.app/projects#cloud-hardening) | Segmented OpenStack infrastructure (DMZ/DB/Mgmt), defense-in-depth hardening, CIS Benchmark-validated with Lynis (58 → 78) | ✅ Completed |
+| [🕵️ Cyber Threat Intelligence Platform](https://your-portfolio.vercel.app/projects#cti-platform) | CTI pipeline correlating CVE, VirusTotal, Shodan and OSINT sources, real-time dashboard, containerized with Docker | ✅ Completed |
+| [🔑 Smart Lock with ZKP Authentication](https://your-portfolio.vercel.app/projects#smart-lock-zkp) | Zero-Knowledge Proof authentication, Android + Spring Boot, JWT session security | ✅ Completed |
 
-> 📌 Each project has its own repository with detailed documentation, architecture diagrams, and setup instructions.
+> 📌 Full case studies — architecture, technical decisions, results and screenshots — on my **[portfolio](https://your-portfolio.vercel.app/projects)**.
 
 ---
 
