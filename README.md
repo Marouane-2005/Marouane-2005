@@ -52,7 +52,7 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [☁️ AWS Cloud Security Lab](https://github.com/marouane-chtita/AWS-Cloud-Security-Lab) | Secure AWS infrastructure built with Terraform — VPC segmentation, ALB/WAF, IAM least privilege, CloudTrail/GuardDuty/Security Hub detection, and automated EventBridge → Lambda incident response (EC2 quarantine) | 🚧 In Progress |
+| [☁️ AWS Cloud Security Lab](https://github.com/marouane-chtita/AWS-Cloud-Security-Lab) | Secure AWS infrastructure built with Terraform — VPC segmentation, ALB/WAF, IAM least privilege, CloudTrail/GuardDuty/Security Hub detection, and automated EventBridge → Lambda incident response (EC2 quarantine) | ✅ Completed |
 | [🔐 SOC Lab — CHU Hassan II](https://portfolio-marouane-chtita.vercel.app/projects#soc-lab) | End-to-end SOC: Elastic SIEM/EDR, Suricata, Shuffle SOAR, MISP, TheHive, Cortex — validated against MITRE ATT&CK-mapped attack simulations | ✅ Completed |
 | [☁️ Private Cloud Hardening](https://portfolio-marouane-chtita.vercel.app/projects#cloud-hardening) | Segmented OpenStack infrastructure (DMZ/DB/Mgmt), defense-in-depth hardening, CIS Benchmark-validated with Lynis (58 → 78/100) | ✅ Completed |
 | [🕵️ Cyber Threat Intelligence Platform](https://portfolio-marouane-chtita.vercel.app/projects#cti-platform) | CTI pipeline correlating CVE, VirusTotal, Shodan and OSINT sources, MITRE ATT&CK mapping, real-time dashboard, containerized with Docker | ✅ Completed |
